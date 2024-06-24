@@ -9,6 +9,7 @@ I'm a software engineer, entrepreneur, and content creator. With 1+ million subs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ap2uWsJV25w?si=C78pPblWae0poNwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 I began my coding journey in elementary school with QBasic and Visual Basic, building small games. Graduating from UC Berkeley with high honors, I majored in Computer Science (EECS) including a 1-year study abroad program in Japan at the Tokyo Institute of Technology that would be life-changing. Upon returning, I attended UC San Diego for my Master's Degree in Computer Science (Computer Graphics), while also placing in the ACM programming competitions. I also worked internships at Microsoft, Juniper Networks, and Sun Microsystems. During this time, I also launched numerous pet projects to university students such as social media apps, schedule organizers, and event websites that would be used by thousands of students coded primarily in self-taught Perl/CGI.
 
 After university, my first job was at Sony Pictures in Los Angeles in 2007, working on 3D special effects for films where I coded in C++ and Python. In restrospect, despite entry-level pay, this was one of the best jobs throughout my career.
@@ -22,7 +23,8 @@ After the Facebook apps era faded, I grew bored and eventually returned to the o
 By 2013, I grew bored yet again and quit my job, relocating to New York to teach myself investing and trading. I needed to learn finance. However, living in a luxurious apartment like in an ivory tower, I realized how isolating luxury can be and left to begin what would become a journey into minimalism, embracing experiences over materialism. I traveled through Europe staying in hostels on a month-long journey through the Swiss Alps, the French Riviera, and Southern Spain. I became interested in DSLR photography and timelapse videos, starting my first YouTube channel [Blue Eden](https://www.youtube.com/blueedenhd), a travel photography channel with 1.5m views. This was lot at the time, gaining sailboat sponsorships and featured in popular blogs. My travels eventually took me back to Japan, where in my spare time I develop a popular timelapse/photography desktop software gaining 500k user sessions coded in Adobe AIR.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L2HXlcgfwKc?si=wsCS30037sD1G5aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Blue Eden
+
+*Blue Eden Channel*
 
 By 2014, I ported my old Facebook web games to the newly announced iPhone, teaching myself iOS app development. I launched about 9 apps to the App Store to 150k+ downloads.
 
@@ -37,7 +39,9 @@ By 2019, I finally went fulltime on YouTube. The TechLead YouTube channel covers
 Today, I remain a student of life and continue to explore the frontiers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nzyCMf0EW9A?si=saqAlqHsPEJZe62Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Blue Eden x TechLead
+
+*TechLead x Blue Eden*
+
 
 ## Hobbies
 I enjoy playing with my dog, traveling, gaming, photography, sailing, sci-fi, coffee, and learning.
