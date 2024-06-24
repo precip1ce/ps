@@ -33,10 +33,11 @@ I remain a student of life and continue to explore the frontiers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ap2uWsJV25w?si=C78pPblWae0poNwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Social Media Links
+## Hobbies
+I enjoy playing with my dog, traveling, gaming, photography, sailing, sci-fi, coffee, and learning.
+
+## Social Media
 * [TechLead on YouTube](https://www.youtube.com/techlead)
 * [TechLead on Twitter / X](https://x.com/techleadhd/)
 * [TechLead on Instagram](https://instagram.com/techleadhd)
 * [TechLead on LinkedIn](https://www.linkedin.com/in/shyup)
-## Hobbies
-I enjoy playing with my dog, traveling, gaming, photography, sailing, sci-fi, coffee, and learning.
