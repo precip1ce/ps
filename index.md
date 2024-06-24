@@ -46,6 +46,9 @@ Today, I remain a student of life and continue to explore the frontiers.
 ## Hobbies
 I enjoy playing with my dog, traveling, gaming, photography, sailing, sci-fi, coffee, and learning.
 
+## Resume
+* [Resume](https://drive.google.com/file/d/131-6ZAU0waEy7XCR9TqQY2gadglXvell/view?usp=drive_link)
+
 ## Social Media
 * [TechLead on YouTube](https://www.youtube.com/techlead)
 * [TechLead on Twitter / X](https://x.com/techleadhd/)
