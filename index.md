@@ -19,21 +19,23 @@ Having achieved financial success early on, I realized it would be a waste if I 
 
 After the Facebook apps era faded, I grew bored and eventually returned to the office, working at various startup jobs including Groupon where I coded in Ruby on Rails. This job did not last long and I soon quit that out of boredom too.
 
-By 2013, on a whim I relocated to New York to teach myself investing and trading. I needed to learn finance. However, while renting a luxurious apartment as if an ivory tower, I realized how isolating luxury can be and left to begin what would become a journey into minimalism, embracing experiences over materialism. I traveled the European backpacker route staying in hostels on a month-long journey through the Swiss Alps, the French Riviera, and Southern Spain. I became interested in DSLR photography and timelapse videos, starting my first YouTube channel [Blue Eden](https://www.youtube.com/blueedenhd), a travel photography channel with 1.5m views. This was a lot at the time, gaining sailboat sponsorships and featured in popular blogs. My travels eventually took me back to Japan, where I developed a popular timelapse/photography desktop software application gaining 500k user sessions coded in Adobe AIR.
+By 2013, on a whim I relocated to New York to teach myself investing and trading. I needed to learn finance. However, while renting a luxury apartment as if in an ivory tower, I realized how isolating luxury can be and left to begin what would become a journey into minimalism, embracing experiences over materialism. 
+
+I traveled the European backpacker route staying in hostels on a month-long journey through the Swiss Alps, the French Riviera, and Southern Spain. With my travels, I became interested in DSLR photography and timelapse videos, starting my first YouTube channel [Blue Eden](https://www.youtube.com/blueedenhd), a travel photography channel with 1.5m views. This was a lot at the time, gaining sailboat sponsorships and featured in popular blogs. My travels eventually took me back to Japan, where I developed a popular timelapse/photography desktop software application gaining 500k user sessions coded in Adobe AIR.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L2HXlcgfwKc?si=wsCS30037sD1G5aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Blue Eden Channel*
+*Blue Eden on YouTube*
 
 By 2014, I ported my old Facebook web games to the recently announced iPhone, teaching myself iOS app development. I launched about 9 apps to the App Store to 150k+ downloads.
 
-By September 2014, I joined Google as an iOS software engineer in the YouTube team, coding primarily in Objective-C and Python. I was eventually promoted to the Tech Lead of App Architecture, helping the YouTube iOS app achieve rank #1 in the Apple App Store with 150+ million users.
+By September 2014, after years of failed attempts, I finally pass the Google interview and join as an iOS software engineer in the YouTube team, coding primarily in Objective-C and Python. I was eventually promoted to the Tech Lead of App Architecture, helping the YouTube iOS app achieve rank #1 in the Apple App Store with 150+ million users.
 
-By 2018, I launched the TechLead YouTube channel for fun, pioneering the tech influencer space with a blend of technical insights and comedy. At the time, few professionals took YouTube seriously.
+By 2018, I launched the TechLead YouTube channel as a hobby, pioneering the tech influencer space with a blend of technical insights and comedy. At the time, few professionals took YouTube seriously.
 
 By May 2018, I joined Meta as a staff software engineer in the Facebook Video team developing in iOS and PHP. I joined Instagram Ads briefly coding in Python, before a conflict of interest arose with my YouTube channel. I returned to my entrepreneurial endeavors.
 
-By 2019, I finally went fulltime on YouTube. The TechLead YouTube channel covers tech, finance, and lifestyle and has achieved 150+ million views worldwide and has partnered with numerous sponsors and brands. Alongside the channel, interview training program [Tech Interview Pro](https://techinterviewpro.com/) helps software engineers pass interviews to land jobs.
+By 2019, I finally went fulltime on YouTube. The TechLead channel covers tech, finance, and lifestyle and has achieved 150+ million views worldwide and has partnered with sponsors and brands. Alongside the channel, interview training program [Tech Interview Pro](https://techinterviewpro.com/) helps software engineers pass interviews to land jobs.
 
 Today, I remain a student of life and continue to explore the frontiers.
 
