@@ -52,7 +52,7 @@ I like my dog, traveling, gaming, photography, sailing, sci-fi, coffee, lifestyl
 
 ## Social Media
 * [TechLead on YouTube](https://www.youtube.com/techlead)
-* [Twitter / X](https://x.com/techleadhd/)
-* [Instagram](https://instagram.com/techleadhd)
+* [TechLead on X](https://x.com/techleadhd/)
+* [TechLead on Instagram](https://instagram.com/techleadhd)
 
 ![TechLead on YouTube](assets/desksetup.jpg)
