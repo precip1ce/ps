@@ -7,7 +7,7 @@ Hi, I'm Patrick Shyu. Welcome to my personal homepage. Here's a little bit about
 ## About
 I'm a software engineer, entrepreneur, and content creator. With 1+ million followers across social media platforms, I create content about tech, finance, and lifestyle. I share education and insights, while inspiring with entertainment and humor.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ap2uWsJV25w?si=C78pPblWae0poNwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ap2uWsJV25w?si=C78pPblWae0poNwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *TechLead on YouTube*
 
@@ -25,7 +25,7 @@ Having achieved financial success early on, I realized it would be a waste if I 
 
 I traveled the European backpacker routes staying in hostels on a month-long journey through the Swiss Alps, the French Riviera, and Southern Spain. In my travels, I grew interested in DSLR photography and timelapse videos, which led me to start my first YouTube channel [Blue Eden](https://www.youtube.com/blueedenhd), a travel photography channel with 1.5m views. This was a lot of views at the time, gaining sailboat sponsorships, thousands in stock footage sales, and features in popular blogs. Alongside my exploration into semi-pro photography, I developed a popular timelapse desktop software application gaining 500k user sessions coded in Adobe AIR.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L2HXlcgfwKc?si=wsCS30037sD1G5aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/L2HXlcgfwKc?si=wsCS30037sD1G5aI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Blue Eden on YouTube*
 
@@ -41,7 +41,7 @@ By 2019, I finally went fulltime on YouTube. The channel has covered tech, finan
 
 I remain a student of life and continue to explore the frontiers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nzyCMf0EW9A?si=saqAlqHsPEJZe62Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nzyCMf0EW9A?si=saqAlqHsPEJZe62Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Hobbies
