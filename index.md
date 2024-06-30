@@ -9,7 +9,7 @@ I'm a software engineer, entrepreneur, and content creator. With 1+ million foll
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ap2uWsJV25w?si=C78pPblWae0poNwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*YouTube*
+*TechLead on YouTube*
 
 I began my coding journey in a Silicon Valley elementary school self-learning QBasic and Visual Basic to create small games. Graduating from UC Berkeley with high honors, I majored in Computer Science (EECS) including a one year study-abroad program in Japan my senior year at the Tokyo Institute of Technology. Upon return, I attended UC San Diego for my Master's Degree in Computer Science (Computer Graphics emphasis), while also placing in the ACM programming competitions. I worked internships at Microsoft, Juniper Networks, and Sun Microsystems with the highlight meeting Bill Gates at his house in Seattle. On campus, I would create numerous pet projects such as social media apps, schedule planners, and event websites used by thousands of students coded in self-taught Perl/CGI and Java.
 
@@ -33,7 +33,7 @@ By 2014, I ported my old Facebook web games to the recently announced iPhone, te
 
 By September 2014, after years of attempts, I finally passed the Google interview and joined the YouTube team as an iOS software engineer coding primarily in Objective-C and Python. In my 3.5 years there, I was promoted to the Tech Lead of App Architecture, helping the YouTube iOS app achieve rank #1 in the Apple App Store with 150+ million users.
 
-By 2018, I launched the TechLead YouTube channel as a hobby, pioneering the tech influencer space with a blend of insights on the tech industry and comedy. At the time, few professionals took YouTube seriously.
+By 2018, I launched the TechLead YouTube channel as a hobby, pioneering the tech influencer space with a blend of insights on the tech industry and comedy. The TechLead character is an exaagerated persona purpose-built for YouTube, based on my real life experiences. TechLead entertains audiences with satire, wit, trolling, clickbait, and chasing trends yet all the while delivering real knowledge about tech industry. Through blending the YouTube persona with actual experiences, TechLead weaves attention-grabbing entertainment with nuggets of life wisdom.
 
 By May 2018, I joined Meta as a staff software engineer in the Facebook Video team developing in iOS and PHP. I joined Instagram Ads briefly coding in Python, before a conflict of interest arose with my YouTube channel. I returned to my entrepreneurial endeavors.
 
